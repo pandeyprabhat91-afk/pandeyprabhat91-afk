@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <h1 align="center">Hi 👋, I'm Prabhat Pandey</h1>
 <h3 align="center">Defense Technology Innovator</h3>
