@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **My prototypes have been tested everywhere—from deserts to defense workshops. Sometimes, even the birds seem impressed.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
